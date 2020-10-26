@@ -1,2 +1,3 @@
 public String name;
 public String ssn;
+public double score;
